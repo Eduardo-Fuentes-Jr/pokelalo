@@ -1,0 +1,14 @@
+.collection-img-wrapper {
+  margin-bottom: 5rem;
+}
+.collection-img-wrapper img {
+  opacity: 1;
+}
+.top-cards-section h2 {
+  text-transform: uppercase;
+  color: #000;
+  text-align: center;
+  font-weight: 700;
+  letter-spacing: 8px;
+  text-shadow: 0px 5px 3px #fbc732;
+}
