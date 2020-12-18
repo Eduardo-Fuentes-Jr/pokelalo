@@ -1,0 +1,17 @@
+.videos-section {
+  width: 100%;
+  margin: 3rem auto;
+  background-color: black;
+  display: flex;
+  flex-wrap: wrap;
+}
+.video-wrapper {
+  width: 45%;
+  max-width: 600px;
+  background: #fff;
+  margin: 2rem auto;
+}
+.video-wrapper video {
+  width: 100%;
+  height: 100%;
+}
