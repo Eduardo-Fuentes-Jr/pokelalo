@@ -25,6 +25,7 @@
 .panel {
   background-size: cover;
   background-repeat: no-repeat;
+  -o-object-fit: cover;
   object-fit: cover;
   background-position: center;
   height: 40vh;
